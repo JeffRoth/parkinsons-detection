@@ -6,9 +6,9 @@ Compared 5 different machine learning algorithms (logistic regression, K-nearest
 
 Random forest had the best accuracy, with:
 
-Model accuracy: 95.0
-Precision: 0.94
-Recall: 1.0
+Model accuracy: 95.0,
+Precision: 0.94,
+Recall: 1.0,
 F1: 0.48
 
 Dataset citations:
