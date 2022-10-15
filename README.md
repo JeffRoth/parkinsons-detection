@@ -1,8 +1,10 @@
 # parkinsons-detection
-Script for screening for Parkinson's Disease based on features from voice recordings. Data downloaded from:
+Jupyter notebook for screening for Parkinson's Disease based on features from voice recordings. Data downloaded from:
 https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/
 
-Compared 5 different machine learning algorithms (logistic regression, K-nearest neighbors, Neural Networks, Random Forest, and XGBoost) to determine which has greater accuracy.
+Compared 5 different machine learning algorithms (logistic regression, K-nearest neighbors, Neural Networks, Random Forest, and XGBoost) to determine which has greater accuracy:
+
+![Confusion Matrices](confusion_matrices.png "Confusion Matrices")
 
 Random forest had the best accuracy, with:
 
